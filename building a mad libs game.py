@@ -1,0 +1,11 @@
+name1 = input("What is your name? ")
+name2 = input("What is your lover's name? ")
+thing1 = input("What thing or creature are you? ")
+thing2 = input("What thing or creature is your lover? ")
+
+print("One day " + name1 + " was walking in the forest")
+print("Suddenly, he spotted a " + thing2 + " hidden behind the bush")
+print("\"Hello, little " + thing2 + ", what are you here for?\" asked " + name1)
+print("\"I am here to wait for a " + thing1 + " to pick me up!\" answered the " + thing2)
+print("So " + name1 + " picked it up")
+print("and named it " + name2)
